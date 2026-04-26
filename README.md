@@ -1,3 +1,5 @@
+[Versao Português](./README.pt-br.md)
+
 # JangUI
 
 A multi-agent AI orchestration system built with FastAPI that coordinates autonomous agents for knowledge management, planning, and automation tasks.
